@@ -732,7 +732,7 @@ local function ZIGYPD_fake_script() -- HBE.LocalScript
 	
 	HBE.MouseButton1Click:Connect(function()
 	
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/astra/refs/heads/main/hitbox", true))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/astra/refs/heads/main/hitbox"))()
 	end)
 end
 coroutine.wrap(ZIGYPD_fake_script)()
