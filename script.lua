@@ -233,6 +233,7 @@ TriggerBot.Font = Enum.Font.SourceSans
 TriggerBot.Text = ""
 TriggerBot.TextColor3 = Color3.fromRGB(0, 0, 0)
 TriggerBot.TextSize = 14.000
+TriggerBot.Transparency = 0.7
 
 UICorner_13.Parent = TriggerBot
 
@@ -245,6 +246,7 @@ TriggerBotText.Font = Enum.Font.SourceSans
 TriggerBotText.Text = "TriggerBot"
 TriggerBotText.TextColor3 = Color3.fromRGB(0, 0, 0)
 TriggerBotText.TextSize = 14.000
+TriggerBot.Transparency = 0.7
 
 UICorner_14.Parent = TriggerBotText
 
