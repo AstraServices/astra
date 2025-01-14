@@ -280,14 +280,14 @@ Hub.Text = "Hub"
 Hub.TextColor3 = Color3.fromRGB(79, 79, 79)
 Hub.TextSize = 31.000
 
-Astra.Name = "Astra"
+Astra.Name = "Nypetrat "
 Astra.Parent = MainFrame
 Astra.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Astra.BackgroundTransparency = 1.000
 Astra.Position = UDim2.new(0.172163785, 0, -0.0916523635, 0)
 Astra.Size = UDim2.new(0, 68, 0, 21)
 Astra.Font = Enum.Font.SourceSans
-Astra.Text = "Astra"
+Astra.Text = "Nypetrat "
 Astra.TextColor3 = Color3.fromRGB(255, 255, 255)
 Astra.TextSize = 31.000
 
