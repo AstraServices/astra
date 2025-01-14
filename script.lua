@@ -730,7 +730,7 @@ local function ZIGYPD_fake_script() -- HBE.LocalScript
 	
 	HBE.MouseButton1Click:Connect(function()
 	
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/Rollimonster/Arsenal-Hitbox-Expander/main/Arsenal-Hitbox-Expander", true))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/astra/refs/heads/main/hitbox", true))()
 	end)
 end
 coroutine.wrap(ZIGYPD_fake_script)()
